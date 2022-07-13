@@ -8,6 +8,7 @@ TOKEN = os.getenv("TOKEN")
 PREFIXO = os.getenv("PREFIXO")
 comprimento = len(PREFIXO)
 
+
 print(PREFIXO)
 print(comprimento)
 
